@@ -32,7 +32,7 @@ matplotlib>=3.3.0
 
 ### 1. Clone/Download the Project
 ```bash
-cd c:\Users\Vivek Tiwari\Desktop\MCA_SEM2\DL\test
+cd Dl-Practicle/Ann-for-MINIST-Dataset
 ```
 
 ### 2. Create Virtual Environment (Optional but Recommended)
@@ -207,7 +207,7 @@ This project is for educational purposes.
 
 ## 👤 Author
 
-Created as part of MCA SEM2 Deep Learning coursework.
+Created as part of MCA Deep Learning coursework.
 
 ---
 
